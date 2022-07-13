@@ -1,8 +1,8 @@
-#game:
-##this game has 3 command:
-###new:
+# Game:
+## This game has 3 command:
+### new:
 to start new game.
-###show:
+### show:
 to see the scores.
-###end:
+### end:
 to end the game.
